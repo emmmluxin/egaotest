@@ -62,14 +62,14 @@ _TD.a.push(function (TD) {
 		 * 升级本建筑需要的花费
 		 */
 		getUpgradeCost: function () {
-			return Math.floor(this.money * 0.75);
+			return Math.floor(this.money * 0.60);
 		},
 
 		/**
 		 * 出售本建筑能得到多少钱
 		 */
 		getSellMoney: function () {
-			return Math.floor(this.money * 0.5) || 1;
+			return Math.floor(this.money * 0.6) || 1;
 		},
 
 		/**

@@ -55,8 +55,8 @@ _TD.a.push(function (TD) {
 				// idx: 0
 				name: "monster 1",
 				desc: "最弱小的怪物",
-				speed: 3,
-				max_speed: 10,
+				speed: 3, // 速度
+				max_speed: 10, // 最大速度
 				life: 50,
 				damage: 1, // 到达终点后会带来多少点伤害（1 ~ 10）
 				shield: 0,

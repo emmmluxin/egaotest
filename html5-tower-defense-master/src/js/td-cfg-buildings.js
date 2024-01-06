@@ -36,7 +36,7 @@ _TD.a.push(function (TD) {
 				bullet_speed: 0,
 				life: 100,
 				shield: 500,
-				cost: 5
+				cost: 5 // 建筑价格
 			},
 
 			// 炮台
